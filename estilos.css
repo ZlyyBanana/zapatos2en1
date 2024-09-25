@@ -286,6 +286,18 @@ footer{
     margin-bottom: 60px;
 }
 
+.fcc-btn {
+    background-color: #199319;
+    color: white;
+    padding: 20px 100px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .fcc-btn:hover {
+    background-color: #223094;
+  }
+
 @media  screen and (max-width:800px) {
     .menu-navegacion{
         width: 50vw;
