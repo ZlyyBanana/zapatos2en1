@@ -22,7 +22,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(120deg, #d5fc796c 0%, #96e6a15d 100%), url('../123.jpg');
+    background-image: linear-gradient(120deg, #d5fc796c 0%, #96e6a15d 100%), url('123.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
